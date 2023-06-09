@@ -1,0 +1,387 @@
+body{
+    background: #FFDF8C;
+}
+
+.wrepper{
+    width: 1340px;
+    margin: 43px auto;
+    height:1400px;
+    background-color:white;
+    border-radius:25px;
+}
+
+header{
+    width: 1225px;
+    height: 41px;
+    margin: 26px auto;
+    padding-top: 43px;
+    margin-left: 67px;
+}
+ .box{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.box .box_1{
+    display: flex;
+}
+header .img img{
+    width: 40px;
+    height: 40px;
+}
+header .lorem {
+    margin-left: 16px;
+}
+header .lorem h2{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #181818;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+header .lorem p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #7B7B7B;
+    margin-top: 2px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    background: #FE5F1E;
+    border-radius: 30px;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    border:0px;
+    cursor: pointer;
+}
+button p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+button span{
+    font-family: 'Proxima Nova' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+hr{
+    width: 100%;
+    margin-top: 44px;
+    border: 1px solid #EAEAEA;
+}
+
+.wrepper .block{
+    width: 1225px;
+    height: 46px;
+    margin-top: 40px;
+    margin-left: 67px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+
+}
+.wrepper .block button{
+    background: #F9F9F9;
+    border-radius: 30px;
+}
+.wrepper .block .button{
+    width: 82.11px;
+    height: 46px;
+    background: #282828;
+    border-radius: 30px;
+}
+.wrepper .block .button_1{
+    width: 132.63px;
+    height: 46px;
+}
+.wrepper .block .button_1 p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: #2C2C2C;
+}
+.wrepper .block .button_2{
+    width: 195.79px;
+    height: 46px;
+}
+.wrepper .block .button_2 p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: #2C2C2C;
+}
+.wrepper .block .button_3{
+    width: 107.37px;
+    height: 46px;
+}
+.wrepper .block .button_3 p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: #2C2C2C;
+}
+.wrepper .block .button_4{
+    width: 120px;
+    height: 46px;
+}
+.wrepper .block .button_4 p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: #2C2C2C;
+}
+.wrepper .block .button_5{
+    width: 145.26px;
+    height: 46px;
+}
+.wrepper .block .button_5 p{
+    font-family: 'Proxima Nova' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: #2C2C2C;
+}
+.wrepper .block .redin{
+    width: 238px;
+    height: 40px;
+    margin-left: 175px;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+}
+.wrepper .block .redin p{
+    font-family: 'Proxima Nova' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.015em;
+    color: #2C2C2C;
+}
+.wrepper .block .redin .div{
+    width: 93px;
+    height: 20px; 
+    display: flex;
+    flex-wrap: wrap;
+}
+.wrepper .block .redin .div span{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.015em;
+    color: #FE5F1E;
+
+}
+.wrepper .block .redin .div img{
+    margin: 0px;
+    border: 1px dashed #FE5F1E;
+    width: 84px;
+    height: 0px;
+}
+.wrepper .h3{
+    width: 166px;
+    margin-top: 32px;
+    margin-left: 67px;
+    margin-bottom: 35px;
+}
+.wrepper .h3 h3{
+    font-family: 'Proxima Nova' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+.tayyor{
+    width: 1340px;
+    height:983px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.var_2{
+    margin-left:67px;
+}
+.wrepper .tayyor .pizza {
+    width: 280px;
+    height: 459px;
+    margin-bottom: 65px;
+    margin-left: 55px;
+}
+
+.wrepper .tayyor .pizza .pizza_1{
+    width: 259.12px;
+    height: 260px;
+    margin: 0 auto;
+    margin-bottom: 11px;
+}
+.wrepper .tayyor .pizza h2{
+    width: 280px;
+    height: 24px;
+    margin-top: opx;
+    font-family: 'Proxima Nova' sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+.pizza .box{
+    width: 280px;
+    height: 85px;
+    background: #F3F3F3;
+    border-radius: 10px;
+    margin-bottom: 17px;
+    margin-top: 0;
+    display: flex;
+    align-items:center;
+    flex-wrap: wrap;
+}
+.pizza .box .box_1{
+    width: 131px;
+    height: 32px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.04);
+    border-radius: 5px;
+    margin-left: 5.73px;
+}
+.pizza .box .box_1 p{
+    margin: 5px auto;
+}
+.pizza .box .box_2{
+    width: 113px;
+    height: 32px;
+    margin-left: 5.73px;
+
+}
+.pizza .box .box_2 p{
+    margin: 5px auto;
+
+}
+.pizza .box .box_3{
+    width: 86px;
+    height: 32px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.04);
+    border-radius: 5px;
+    margin-left: 5.73px;
+    margin-top: 0;
+}
+.pizza .box .box_4{
+    width: 86px;
+    height: 32px;
+    margin-left: 5.73px;
+    margin-top: 0;
+}
+.pizza .box .box_5{
+    width: 86px;
+    height: 32px;
+    margin-left: 5.73px;
+    margin-top: 0;
+}
+.pizza .box  p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: #2C2C2C;
+    margin-top: 10px;
+}
+.pizza .p{
+    width: 89px;
+    height: 27px;
+    margin-right: 36px;
+}
+.pizza .p p{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    letter-spacing: 0.015em;
+    color: #000000;
+    margin: 0;
+}
+.pizza .emmet{
+    width: 280px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.pizza button{
+    width: 155px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #EB5A1E;
+    border-radius: 30px;
+    
+}
+.pizza button p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #EB5A1E;
+    margin-right: 12px;
+    margin-left: 7px;
+}
+.emmet .bor{
+    background: #FE5F1E;
+    border: 1px solid #FE5F1E;
+    border-radius: 30px;
+}
+.bor_1 img{
+    margin-right: 0;
+    margin-left: 9px;
+}
+
+.emmet .bor p{
+    color: #ffffff;
+}
+.emmet .bor_1{
+    width: 132px;
+    grid-template: 40px;
+}

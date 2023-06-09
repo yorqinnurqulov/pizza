@@ -1,0 +1,143 @@
+body{
+    background: #FFDF8C;
+}
+
+.wrepper{
+    width: 1340px;
+    margin: 43px auto;
+    height:980px;
+    background-color:white;
+    border-radius:25px;
+}
+
+header{
+    width: 1225px;
+    height: 41px;
+    margin: 26px auto;
+    padding-top: 43px;
+    margin-left: 67px;
+}
+ .box{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.box .box_1{
+    display: flex;
+}
+header .img img{
+    width: 40px;
+    height: 40px;
+}
+header .lorem {
+    margin-left: 16px;
+}
+header .lorem h2{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #181818;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+header .lorem p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #7B7B7B;
+    margin-top: 2px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    background: #FE5F1E;
+    border-radius: 30px;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    border:0px;
+    cursor: pointer;
+}
+button p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+button span{
+    font-family: 'Proxima Nova' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+hr{
+    width: 100%;
+    margin-top: 44px;
+    border: 2px solid #F7F7F7;
+    margin-bottom: 163px;
+}
+.block{
+    width: 547px;
+    height: 523px;
+    margin: 0 auto;
+}
+.block .h2{
+    width: 283px;
+    height: 39px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.block .h2 h2{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+.block .p{
+    width: 100%;
+    height: 52px;
+    margin-bottom: 47px;
+}
+.block .p p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 145.4%;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #777777;
+}
+.block .img{
+    margin:0 auto;
+    width: 261px;
+    height: 236px;
+}
+.block .img img {
+    width: 261px;
+    height: 236px;
+   
+}
+.block .button{
+    width: 210px;
+    height: 46px;
+    background: #282828;
+    border-radius: 30px;
+    margin: 0 auto;
+    margin-top: 85px;
+}

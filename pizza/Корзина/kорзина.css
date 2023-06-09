@@ -1,0 +1,274 @@
+body{
+    background: #FFDF8C;
+}
+
+.wrepper{
+    width: 1340px;
+    margin: 43px auto;
+    height:980px;
+    background-color:white;
+    border-radius:25px;
+}
+
+header{
+    width: 1225px;
+    height: 41px;
+    margin: 26px auto;
+    padding-top: 43px;
+    margin-left: 67px;
+}
+ .box{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.box .box_1{
+    display: flex;
+}
+header .img img{
+    width: 40px;
+    height: 40px;
+}
+header .lorem {
+    margin-left: 16px;
+}
+header .lorem h2{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #181818;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+header .lorem p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #7B7B7B;
+    margin-top: 2px;
+}
+button{
+    width: 150px;
+    height: 50px;
+    background: #FE5F1E;
+    border-radius: 30px;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    border:0px;
+    cursor: pointer;
+}
+button p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+button span{
+    font-family: 'Proxima Nova' sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+hr{
+    width: 100%;
+    margin-top: 44px;
+    border: 1px solid #F7F7F7;
+    margin-bottom: 94px;
+}
+.karzinka{
+    width: 824px;
+    height: 600px;
+    margin: 94px auto;
+}
+.karzinka .block{
+    width: 100%;
+    height: 39px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.karzinka .block .block_1{
+    width: 170px;
+    height: 39px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.karzinka .block .block_1 p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+.karzinka .block .block_2{
+    width: 156px;
+    height: 23px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.karzinka .block .block_2 p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #B6B6B6;
+}
+.karzinka hr{
+    background: #F4F4F4;
+    margin-bottom: 0px;
+}
+.karzinka .box_{
+    width: 100%;
+    height: 111px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.karzinka .box_ .blockk{
+    width: 400px;
+    height: 80px;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
+.karzinka .box_ .blockk .img{
+    width: 80px;
+    height: 80px;
+}
+.karzinka .box_ .blockk .div{
+    margin-left: 15px;
+}
+.karzinka .box_ .blockk .div .p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-bottom: 3px;
+}
+.karzinka .box_ .blockk .div p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    color: #8D8D8D;
+    margin-top: 0;
+}
+.karzinka .box_ .img_1{
+    width: 90px;
+    height: 33px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.karzinka .box_ .img p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+.karzinka .box_ p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+.karzinka .lorem_1{
+    width: 100%;
+    height: 27px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.karzinka .lorem_1 .s{
+    width: 179px;
+    height: 27px;
+}
+.karzinka .lorem_1 p{
+    font-family: 'Proxima Nova'sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+.karzinka .lorem_1 .s_1{
+    width: 215px;
+    height: 27px;
+}
+.karzinka .lorem_1 .s_1 span{
+    color: #FE5F1E;
+   
+}
+.karzinka .nup{
+    width: 100%;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.karzinka .nup button{
+    width: 211px;
+    height: 55px;
+    background: #FFFFFF;
+    border: 1px solid #D3D3D3;
+    border-radius: 30px;
+}
+.karzinka .nup button img{
+    margin-left: 18px;
+}
+.karzinka .nup button p{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #CACACA;
+    margin-right: 18px;
+}
+.karzinka .nup .class{
+    background: #FE5F1E;
+    border-radius: 30px;
+    border:0;
+}
+.karzinka .nup .class p{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+}
